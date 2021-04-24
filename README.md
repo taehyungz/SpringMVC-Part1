@@ -1,1 +1,3 @@
 # SpringMVC-Part1
+김영한 님의 [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard)  
+강의를 들으면서 따라하는 레포지토리입니다.
